@@ -60,7 +60,7 @@ def on_release(key):
     
     for d in scsep:
         if d.count("=") > 0:
-            if data.count(d.split("=")[0]):
+            if data.count(d.split("=")[0]) > 0:
                 for k in defscsep:
                     if k.count("=") > 0:
                         if d.split("=")[1] == k.split("==")[0]:
