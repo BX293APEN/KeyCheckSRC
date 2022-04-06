@@ -12,3 +12,5 @@ Space:`Key.space`
 ## 2.セキュリティソフトからの除外
 キーロガーなので、マルウェアと検知される可能性があります。  
 ダウンロードしたファイルを***セキュリティソフトから除外する***ことをお勧めします。  
+
+|[Download.zip](https://github.com/BX293APEN/keycheck/archive/refs/heads/main.zip)|
