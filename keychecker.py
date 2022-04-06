@@ -58,6 +58,7 @@ def on_release(key):
 
     i = 0
     
+    # privateメソッドに分割したり、フラグを使ったりし、ネストを浅くしましょう
     for d in scsep:
         if d.count("=") > 0:
             if data.count(d.split("=")[0]) > 0:
