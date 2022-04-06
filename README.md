@@ -1,6 +1,6 @@
 # KeyCheckSRC
 
-## 特殊キー
+### 特殊キー
 Tab:Key.tab  
 Win:Key.cmd  
 Delete:Key.delete  
