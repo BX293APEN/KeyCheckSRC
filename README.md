@@ -1,9 +1,10 @@
 # KeyCheckSRC
 
-Tab:Key.tab
-Win:Key.cmd
-Delete:Key.delete
-BackSpace:Key.backspace
-Space:Key.space
-...
-その他特殊キーはログを見てください
+**特殊キー**
+Tab:Key.tab\n
+Win:Key.cmd\n
+Delete:Key.delete\n
+BackSpace:Key.backspace\n
+Space:Key.space\n
+...\n
+その他特殊キーはログを見てください\n
